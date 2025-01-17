@@ -42,9 +42,9 @@ This repository contains a Python project analyzing Indian Railways datasets to 
 
 ```
 Railways-Dataset-Analytics/
-├── train_info.csv/                  # Raw datasets used for analysis
-├── railways_analysis.pynb   # Python script for data analysis and visualization
-└── README.md              # Project documentation
+├── train_info.csv/                   # Raw datasets used for analysis
+├── railways_analysis.ipynb           # Python script for data analysis and visualization
+└── README.md                         # Project documentation
 ```
 
 ## Contributing
